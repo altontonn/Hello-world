@@ -3,7 +3,7 @@
 # Project Hello Microverse
 
 > Description the project.
-
+Added linter to hello microverse project, gitiginore
 
 ## Built With
 
